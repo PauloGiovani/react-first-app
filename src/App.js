@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 
-// https://www.youtube.com/watch?v=b9eMGE7QtTk&t=2318s
+// Link: https://www.youtube.com/watch?v=b9eMGE7QtTk&t=2318s
 
 // Component Person
 const Person = (props) => {
